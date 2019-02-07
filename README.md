@@ -24,8 +24,24 @@ Created for in browser (Chrome) usage of Microsoft Visual Studio Team Foundation
 
 
 
+## Installation
+
+1. Clone or download the **story-point-counter-tfs** extension.
+
+2. In Chrome, go to `chrome://extensions/`.
+
+3. Turn on *Developer mode*.
+
+4. Click on the *Load unpacked* button
+
+5. Point to the **story-point-counter-tfs** folder and click OK.
+
+   
+
 ## Current limitations
 
 Only works if the Story Points column is your fifth column. 
 
 Also, make sure all User Stories (rows) you want to count are visible, otherwise they might be ignored. When you scroll rows out of sight, TFS removes the rows from the DOM and there Story Points are no longer accessible.
+
+Currently not available in the Chrome Web Store, so it can only be installed in Chrome's *Developer mode*. 
