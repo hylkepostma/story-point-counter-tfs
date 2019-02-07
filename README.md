@@ -1,6 +1,6 @@
 # Story Point counter for TFS
 
-Calculates the total Story Points of all selected User Stories (rows) in the TFS backlog.
+Chrome extension that calculates the total Story Points of all selected User Stories (rows) in the TFS backlog.
 
 
 
