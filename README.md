@@ -28,4 +28,4 @@ Created for in browser (Chrome) usage of Microsoft Visual Studio Team Foundation
 
 Only works if the Story Points column is your fifth column. 
 
-Also, make sure all User Stories (rows) you want to count are visible, otherwise they might be ignored. When you scroll rows out of sight, VS removes the rows from the DOM and are no longer accessible.
+Also, make sure all User Stories (rows) you want to count are visible, otherwise they might be ignored. When you scroll rows out of sight, TFS removes the rows from the DOM and are no longer accessible.
