@@ -8,13 +8,13 @@ Calculates the total Story Points of all selected User Stories (rows) in the TFS
 
 First, use `CTRL` + `click` or `SHIFT` + `click` to select multiple User Stories (rows):
 
-![selected-rows](C:\Users\hylkepostma\Desktop\story-point-counter-tfs\images\selected-rows.png)
+![selected-rows](images\selected-rows.png)
 
 
 
 Now, click the extension's icon ("Count selected Story Points") to see the total amount of Story Points of the selected User Stories:
 
-![counted-story-points](C:\Users\hylkepostma\Desktop\story-point-counter-tfs\images\counted-story-points.png)
+![counted-story-points](images\counted-story-points.png)
 
 
 
