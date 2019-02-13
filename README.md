@@ -26,17 +26,20 @@ Created for in browser (Chrome) usage of Microsoft Visual Studio Team Foundation
 
 ## Installation
 
-1. Clone or download the **story-point-counter-tfs** extension.
+Install the extension from the Chrome Web Store:
 
-2. In Chrome, go to `chrome://extensions/`.
+- https://chrome.google.com/webstore/detail/story-point-counter-for-t/edkpofhcphipcgngadldadmfakgojjla.
 
-3. Turn on *Developer mode*.
+Or install the extension manually (in *Developer mode*) by following the next steps:
 
-4. Click on the *Load unpacked* button
-
+1. Clone or download the **story-point-counter-tfs** repository;
+2. In Chrome, go to `chrome://extensions/`;
+3. Turn on *Developer mode*;
+4. Click on the *Load unpacked* button;
 5. Point to the **story-point-counter-tfs** folder and click OK.
 
-   
+
+  
 
 ## Current limitations
 

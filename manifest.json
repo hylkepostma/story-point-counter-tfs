@@ -6,6 +6,7 @@
   "icons": {  "16": "images/icon-16x16.png",
               "32": "images/icon-32x32.png",    
               "48": "images/icon-48x48.png",
+              "128": "images/icon-128x128.png",
               "144": "images/icon-144x144.png"
            },
   "background": {
