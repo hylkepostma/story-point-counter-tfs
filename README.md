@@ -46,5 +46,3 @@ Or install the extension manually (in *Developer mode*) by following the next st
 Only works if the Story Points column is your fifth column. 
 
 Also, make sure all User Stories (rows) you want to count are visible, otherwise they might be ignored. When you scroll rows out of sight, TFS removes the rows from the DOM and there Story Points are no longer accessible.
-
-Currently not available in the Chrome Web Store, so it can only be installed in Chrome's *Developer mode*. 
